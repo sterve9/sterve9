@@ -55,8 +55,12 @@ j’aide les particuliers et entreprises à **transformer leurs idées en automa
 
 ### 📫 Me contacter
 <p align="center">
-  <a href="https://t.me/SterveShop" target="_blank"><img src="https://img.shields.io/badge/Telegram-@SterveShop-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="mailto:sterve.business@gmail.com"><img src="https://img.shields.io/badge/Email-sterve.business@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://t.me/SterveShop" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@SterveShop-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="mailto:sterve90237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sterve90237@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
