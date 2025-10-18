@@ -2,6 +2,16 @@
   <img src="banner.png?update=3" alt="Sterve — AI Automation Builder" width="100%">
 </p>
 
+<h1 align="center">👋 Salut, moi c’est Sterve</h1>
+<h3 align="center">Turning ideas into AI-powered automations ⚙️</h3>
+<p align="center">
+  <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-automation-red?style=for-the-badge&logo=n8n&logoColor=white"></a>
+  <a href="https://t.me/SterveShop" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="https://workspace.google.com/products/sheets/" target="_blank"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
+  <a href="https://www.notion.so" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"></a>
+</p>
+
 
 ---
 
