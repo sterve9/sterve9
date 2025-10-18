@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="banner(2).png" alt="Sterve — AI Automation Builder" width="100%">
+  <img src="banner.png?update=3" alt="Sterve — AI Automation Builder" width="100%">
 </p>
 
-<h1 align="center">👋 Salut, moi c’est Sterve</h1>
-<h3 align="center">Turning ideas into AI-powered automations ⚙️</h3>
 
 ---
 
