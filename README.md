@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sterve — AI Automation Builder" width="100%">
+  <img src="banner(2).png" alt="Sterve — AI Automation Builder" width="100%">
 </p>
 
 <h1 align="center">👋 Salut, moi c’est Sterve</h1>
